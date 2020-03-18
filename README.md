@@ -19,7 +19,7 @@ Is it possible to achieve similar learning outcomes for adult learners outside o
 1. [Literature Review](#literature-review)
 1. [Objectives](#objectives)
 1. [Research Methodology](#research-methodology)
-1. [Deliverables](#deliverables)
+1. [Potential Artifacts](#potential-artifacts)
 1. [Doctoral Formation](#doctoral-formation)
 1. [Bibliography](#bibliography)
 
@@ -192,17 +192,19 @@ The open question in relation to this thesis is not how can a perfect assessment
 
 ## Research Methodology
 
-```
-// comments from Bruno: methodology can be inherited eg from Design Science
-// check http://content.schweitzer-online.de/static/catalog_manager/live/media_files/representation/zd_std_orig__zd_schw_orig/014/341/402/9781441956521_content_pdf_1.pdf p. 16 bottom
-// -> assess environment, elicit problems (relevance cycle), build design artefacts and evaluate them (design cycle), ground the whole think (rigor cycle). 
-```
+Design Research is the most appropriate methodology, it is best suited to research that seeks to extend an existing knowledge base through application and validation in novel settings.  The goal of this thesis is to apply what is known about effective computing education to finding a generalized method for adapting industry-standard languages & environments for educational purposes. 
+
+Design research is made up of cycles.  These steps will be carried out repeatedly both at a small scale to develop individual artifacts, and a the scale of the thesis in an attempt to find a general methodology.
+
+1. __Relevance__: Requirements & Field Testing
+1. __Design Cycle__: Build & Evaluate
+1. __Rigor Cycle__: Grounding & Knowledge Base Contributions
 
 [TOP](#title)
 
 ---
 
-## Deliverables
+## Potential Artifacts
 
 To make the best practices the common practices, they must be the easiest to adopt/adapt.  Some possible artifacts to achieve this end include:
 
