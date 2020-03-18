@@ -25,7 +25,7 @@ Is it possible to achieve similar learning outcomes for adult learners outside o
 
 ---
 
-## Research Question
+## Research Statement
 
 Much is already known about effective pedagogy for novice programmers, and many great resources, curricula, tools & learning environments have been developed to implement known best practices.   However there are very practical limitations to applying these interventions in many contexts outside of formal learning institutions, by non-specialized educators, or by learners themselves. 
 
