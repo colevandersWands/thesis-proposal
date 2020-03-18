@@ -192,7 +192,11 @@ The open question in relation to this thesis is not how can a perfect assessment
 
 ## Research Methodology
 
-> TBD
+```
+// comments from Bruno: methodology can be inherited eg from Design Science
+// check http://content.schweitzer-online.de/static/catalog_manager/live/media_files/representation/zd_std_orig__zd_schw_orig/014/341/402/9781441956521_content_pdf_1.pdf p. 16 bottom
+// -> assess environment, elicit problems (relevance cycle), build design artefacts and evaluate them (design cycle), ground the whole think (rigor cycle). 
+```
 
 [TOP](#title)
 
@@ -210,8 +214,9 @@ To make the best practices the common practices, they must be the easiest to ado
 
 Some possible avenues of investigation for adapting professional tools into learning environments include:
 
-* Turning existing but common "challenging" languages into learnable languages using imposed language levels (this could be achieved using custom configurations of standard linting tools)
+* Turning existing but common "challenging" languages into learnable languages using imposed language levels, this could be achieved using custom configurations of standard linting tools.  Different config files can be included in the same directory as assignments to allow tailor-made language constraints based on the assignment's objectives.
 * Turning common IDE's (ie. visual studio code, brackets, sublime, or atom) into progressive learning environments using editor configurations that are shared with learners as certain thresholds are passed.
+* Developing language support in professional IDE's for popular tailor-made novice languages
 * Developing plugins for these editors that ...
   * ... provide novice-friendly visualizations of program execution
   * ... provide novice-friendly syntax highlighting & feedback
