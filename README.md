@@ -64,7 +64,7 @@ So, can a combination of pedagogical methodology and technical solutions be foun
 
 ### Target Settings
 
-Many of the settings where theoretically sound interventions are impractical have severe time, resource and expertise constraints as well as far more narrow learning objectives than a standard degree program.  The settings of interest for this thesis are trainings outside of standard degree programs, aimed at learners aged 17/18+, of short duration (12 months or less), and geared towards applied computing skills. This type of learning is typically the domain of private professional courses, online video tutorials, on or off-line mentorship programs, on-the-job training, public schooling, self or peer-guided learning, or government provided trainings (among others).  
+Many of the settings where theoretically sound interventions are impractical have severe time, resource and expertise constraints as well as far more narrow learning objectives than a standard degree program.  The settings of interest for this thesis are trainings outside of standard degree programs, aimed at learners aged 17/18+ with or without strong english language skills, of short duration (12 months or less), and geared towards applied computing skills. This type of learning is typically the domain of private professional courses, online video tutorials, on or off-line mentorship programs, on-the-job training, public schooling, self or peer-guided learning, or government provided trainings (among others).  
 
 The aim of this thesis is to explore whether the same understanding of effective pedagogy can be used to develop a suite of methodologies and supporting tools that enable learners to self-direct, non-specialized educators to teach computing, and experienced programmers to effectively transfer their knowledge.
 
@@ -319,5 +319,12 @@ Kelleher, C., & Pausch, R. (2005). Lowering the barriers to programming: A taxon
 Guzdial, M. (2004). Programming environments for novices. Computer science education research, 2004, 127-154.
 
 Hevner, A., & Chatterjee, S. (2010). Design science research in information systems. In Design research in information systems (pp. 9-22). Springer, Boston, MA.
+
+Tondeur, J., Van Braak, J., & Valcke, M. (2007). Curricula and the use of ICT in education: Two worlds apart?. British Journal of Educational Technology, 38(6), 962-976.
+
+Finavaro Aniche, M., Hermans, F. F. J., & van Deursen, A. (2019). Pragmatic software testing education. In SIGCSE 2019-Proceedings of the 50th ACM Technical Symposium on Computer Science Education. Association for Computing Machinery (ACM).
+
+Swidan, A., & Hermans, F. (2019, May). The Effect of Reading Code Aloud on Comprehension: An Empirical Study with School Students. In Proceedings of the ACM Conference on Global Computing Education (pp. 178-184).
+
 
 [TOP](#title)
