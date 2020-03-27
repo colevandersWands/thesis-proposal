@@ -6,7 +6,7 @@
 
 Many of the initial stumbling blocks for novice programmers can be overcome using custom languages and programming environments specialized to address key thresholds.  However these interventions are not practical or possible in many contexts.
 
-Is it possible to achieve similar learning outcomes for adult learners outside of formal education by applying what is known of effective computing education by adapting/configuring industry-standard programming languages & environments for education?
+Is it possible to achieve similar learning outcomes for adult learners outside of full degree programs by applying what is known of effective computing education to adapting/configuring industry-standard programming languages & environments?
 
 ### Contents
 
