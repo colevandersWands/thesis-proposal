@@ -80,8 +80,8 @@ All actors will need a solid understanding of the same core principles of comput
 
 1. What are key learning objectives & thresholds?
 1. Which of these are most important for the context of this thesis?
-1. What are effective and ineffective ways to reach these objectives?
 1. How can mastery of these objectives be assessed and quantified?
+1. What are effective and ineffective ways to reach these objectives?
 
 The main difference in messaging for the four roles will be which actions to take at each point.  But as it is often the same individuals playing multiple roles, it should be more effective to provide a shared resource with the same core messaging and more specific actionable advice for each role - equally available to all individuals.
 
