@@ -241,90 +241,42 @@ Some possible avenues of investigation for adapting professional tools into lear
 
 ## Bibliography
 
-> to be organized and cited correctly
-
-```
-lastName, I., lastName, I. and lastName, I. (year). title.  _journal_
-
-a thesis - 
-Gilligan, D. (1998). An Exploration of Programming by Demonstration in the Domain of Novice
-Programming. Master’s thesis, School of Mathematics, Statistics and Computer Science, Victoria
-University of Wellington.
-```
-
-Juha Sorva. (2012). Visual Program Simulation in Introductory Programming Education. _Doctoral Thesis, Department of Computer Science and Engineering, Aalto University_.
-
-Sorva, Juha. (2013). Notional Machines and Introductory Programming Education. ACM Transactions on Computing Education. 13. 8:1-8:31. 10.1145/2483710.2483713. 
-
-Van Merriënboer, J. J., Clark, R. E., & De Croock, M. B. (2002). Blueprints for complex learning: The 4C/ID-model. Educational technology research and development, 50(2), 39-61.
-
-Robins, A., Rountree, J., & Rountree, N. (2003). Learning and teaching programming: A review and discussion. Computer science education, 13(2), 137-172.
-
-Sorva, J. (2010, October). Reflections on threshold concepts in computer programming and beyond. In Proceedings of the 10th Koli calling international conference on computing education research (pp. 21-30).
-  
-Sorva, J., & Seppälä, O. (2014, November). Research-based design of the first weeks of CS1. In Proceedings of the 14th Koli Calling International Conference on Computing Education Research (pp. 71-80).
-
-Sajaniemi, J. (2002, September). An empirical analysis of roles of variables in novice-level procedural programs. In Proceedings IEEE 2002 Symposia on Human Centric Computing Languages and Environments (pp. 37-39). IEEE.
-
-Abdul-Rahman, S. S., & Du Boulay, B. (2014). Learning programming via worked-examples: Relation of learning styles to cognitive load. Computers in Human Behavior, 30, 286-298.
-
-Shafto, P., & Goodman, N. (2008). Teaching games: Statistical sampling assumptions for learning in pedagogical situations. In Proceedings of the 30th annual conference of the Cognitive Science Society (pp. 1632-1637). Austin, TX: Cognitive Science Society.
-
-Mead, J., Gray, S., Hamer, J., James, R., Sorva, J., Clair, C. S., & Thomas, L. (2006). A cognitive approach to identifying measurable milestones for programming skill acquisition. ACM SIGCSE Bulletin, 38(4), 182-194.
-
-Atkinson, R. K., Derry, S. J., Renkl, A., & Wortham, D. (2000). Learning from examples: Instructional principles from the worked examples research. Review of educational research, 70(2), 181-214.
-
-Gulikers, J. T., Bastiaens, T. J., & Kirschner, P. A. (2004). A five-dimensional framework for authentic assessment. Educational technology research and development, 52(3), 67.
-
-Castro, F. E. V., & Fisler, K. (2017, November). Designing a multi-faceted SOLO taxonomy to track program design skills through an entire course. In Proceedings of the 17th Koli Calling International Conference on Computing Education Research (pp. 10-19).
-
-Sheard, J., Carbone, A., Lister, R., Simon, B., Thompson, E., & Whalley, J. L. (2008, June). Going SOLO to assess novice programmers. In Proceedings of the 13th annual conference on Innovation and technology in computer science education (pp. 209-213).
-
-Krone, J., Hollingsworth, J. E., Sitaraman, M., & Hallstrom, J. O. (2010). A reasoning concept inventory for computer science. Clemson University.
-
-Goldman, K., Gross, P., Heeren, C., Herman, G., Kaczmarczyk, L., Loui, M. C., & Zilles, C. (2008, March). Identifying important and difficult concepts in introductory computing courses using a delphi process. In Proceedings of the 39th SIGCSE technical symposium on Computer science education (pp. 256-260).
-
-Zeng, L., Kuang, S., Yang, L., Zhu, T., & Ding, X. (2010, May). Construction of Threshold Concept-Based Programming Courses Ontology. In 2010 International Conference on E-Business and E-Government (pp. 3849-3851). IEEE.
-
-Santos, Á., Gomes, A., & Mendes, A. (2013, October). A taxonomy of exercises to support individual learning paths in initial programming learning. In 2013 IEEE Frontiers in Education Conference (FIE) (pp. 87-93). IEEE.
-
-Whalley, J. L., Clear, T., Robbins, P., & Thompson, E. (2011). Salient elements in novice solutions to code writing problems.
-
-Shih, Y. F., & Alessi, S. M. (1993). Mental models and transfer of learning in computer programming. Journal of Research on Computing in Education, 26(2), 154-175.
-
-Ramalingam, V., LaBelle, D., & Wiedenbeck, S. (2004, June). Self-efficacy and mental models in learning to program. In Proceedings of the 9th annual SIGCSE conference on Innovation and technology in computer science education (pp. 171-175).
-
-Bitzer, L. F. (1992). The rhetorical situation. Philosophy & rhetoric, 1-14.
-
-Vatz, R. E. (1973). The myth of the rhetorical situation. Philosophy & rhetoric, 154-161.
-
-Proulx, V. K. (2000). Programming patterns and design patterns in the introductory computer science course. ACM Sigcse Bulletin, 32(1), 80-84.
-
-Guibert, Nicolas & Guittet, Laurent. (2005). A study of the efficiency of an alternative programming paradigm to teach the basics of programming. 
-
-Reinfelds, J. (1995). A three paradigm first course for CS majors. ACM SIGCSE Bulletin, 27(1), 223-227.
-
-Paas, F., Renkl, A., & Sweller, J. (2004). Cognitive load theory: Instructional implications of the interaction between information structures and cognitive architecture. Instructional science, 32(1/2), 1-8.
-
-Davies, S. (2008, October). The effects of emphasizing computational thinking in an introductory programming course. In 2008 38th Annual Frontiers in Education Conference (pp. T2C-3). IEEE.
-
-Zhu, H., & Zhou, M. (2003, October). Methodology first and language second: A way to teach object-oriented programming. In Companion of the 18th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications (pp. 140-147).
-
-Du Boulay, B., O'SHEA, T. I. M., & Monk, J. (1999). The black box inside the glass box: Presenting computing concepts to novices. International Journal of Human-Computer Studies, 51(2), 265-277.
-
-Faux, R. (2006). Impact of preprogramming course curriculum on learning in the first programming course. IEEE Transactions on education, 49(1), 11-15.
-
-Kelleher, C., & Pausch, R. (2005). Lowering the barriers to programming: A taxonomy of programming environments and languages for novice programmers. ACM Computing Surveys (CSUR), 37(2), 83-137.
-
-Guzdial, M. (2004). Programming environments for novices. Computer science education research, 2004, 127-154.
-
-Hevner, A., & Chatterjee, S. (2010). Design science research in information systems. In Design research in information systems (pp. 9-22). Springer, Boston, MA.
-
-Tondeur, J., Van Braak, J., & Valcke, M. (2007). Curricula and the use of ICT in education: Two worlds apart?. British Journal of Educational Technology, 38(6), 962-976.
-
-Finavaro Aniche, M., Hermans, F. F. J., & van Deursen, A. (2019). Pragmatic software testing education. In SIGCSE 2019-Proceedings of the 50th ACM Technical Symposium on Computer Science Education. Association for Computing Machinery (ACM).
-
-Swidan, A., & Hermans, F. (2019, May). The Effect of Reading Code Aloud on Comprehension: An Empirical Study with School Students. In Proceedings of the ACM Conference on Global Computing Education (pp. 178-184).
-
+1. Abdul-Rahman, S. S., & Du Boulay, B. (2014). Learning programming via worked-examples: Relation of learning styles to cognitive load. Computers in Human Behavior, 30, 286-298.
+1. Atkinson, R. K., Derry, S. J., Renkl, A., & Wortham, D. (2000). Learning from examples: Instructional principles from the worked examples research. Review of educational research, 70(2), 181-214.
+1. Bitzer, L. F. (1992). The rhetorical situation. Philosophy & rhetoric, 1-14.
+1. Castro, F. E. V., & Fisler, K. (2017, November). Designing a multi-faceted SOLO taxonomy to track program design skills through an entire course. In Proceedings of the 17th Koli Calling International Conference on Computing Education Research (pp. 10-19).
+1. Du Boulay, B., O'SHEA, T. I. M., & Monk, J. (1999). The black box inside the glass box: Presenting computing concepts to novices. International Journal of Human-Computer Studies, 51(2), 265-277.
+1. Davies, S. (2008, October). The effects of emphasizing computational thinking in an introductory programming course. In 2008 38th Annual Frontiers in Education Conference (pp. T2C-3). IEEE.
+1. Faux, R. (2006). Impact of preprogramming course curriculum on learning in the first programming course. IEEE Transactions on education, 49(1), 11-15.
+1. Finavaro Aniche, M., Hermans, F. F. J., & van Deursen, A. (2019). Pragmatic software testing education. In SIGCSE 2019-Proceedings of the 50th ACM Technical Symposium on Computer Science Education. Association for Computing Machinery (ACM).
+1. Gulikers, J. T., Bastiaens, T. J., & Kirschner, P. A. (2004). A five-dimensional framework for authentic assessment. Educational technology research and development, 52(3), 67.
+1. Goldman, K., Gross, P., Heeren, C., Herman, G., Kaczmarczyk, L., Loui, M. C., & Zilles, C. (2008, March). Identifying important and difficult concepts in introductory computing courses using a delphi process. In Proceedings of the 39th SIGCSE technical symposium on Computer science education (pp. 256-260).
+1. Guibert, Nicolas & Guittet, Laurent. (2005). A study of the efficiency of an alternative programming paradigm to teach the basics of programming. 
+1. Guzdial, M. (2004). Programming environments for novices. Computer science education research, 2004, 127-154.
+1. Hevner, A., & Chatterjee, S. (2010). Design science research in information systems. In Design research in information systems (pp. 9-22). Springer, Boston, MA.
+1. Krone, J., Hollingsworth, J. E., Sitaraman, M., & Hallstrom, J. O. (2010). A reasoning concept inventory for computer science. Clemson University.
+1. Kelleher, C., & Pausch, R. (2005). Lowering the barriers to programming: A taxonomy of programming environments and languages for novice programmers. ACM Computing Surveys (CSUR), 37(2), 83-137.
+1. Mead, J., Gray, S., Hamer, J., James, R., Sorva, J., Clair, C. S., & Thomas, L. (2006). A cognitive approach to identifying measurable milestones for programming skill acquisition. ACM SIGCSE Bulletin, 38(4), 182-194.
+1. Proulx, V. K. (2000). Programming patterns and design patterns in the introductory computer science course. ACM Sigcse Bulletin, 32(1), 80-84.
+1. Paas, F., Renkl, A., & Sweller, J. (2004). Cognitive load theory: Instructional implications of the interaction between information structures and cognitive architecture. Instructional science, 32(1/2), 1-8.
+1. Robins, A., Rountree, J., & Rountree, N. (2003). Learning and teaching programming: A review and discussion. Computer science education, 13(2), 137-172.
+1. Ramalingam, V., LaBelle, D., & Wiedenbeck, S. (2004, June). Self-efficacy and mental models in learning to program. In Proceedings of the 9th annual SIGCSE conference on Innovation and technology in computer science education (pp. 171-175).
+1. Reinfelds, J. (1995). A three paradigm first course for CS majors. ACM SIGCSE Bulletin, 27(1), 223-227.
+1. Sorva, J. (2012). Visual program simulation in introductory programming education. Aalto University.
+1. Sorva, J. (2010, October). Reflections on threshold concepts in computer programming and beyond. In Proceedings of the 10th Koli calling international conference on computing education research (pp. 21-30).
+1. Sorva, J., & Seppälä, O. (2014, November). Research-based design of the first weeks of CS1. In Proceedings of the 14th Koli Calling International Conference on Computing Education Research (pp. 71-80).
+1. Sajaniemi, J. (2002, September). An empirical analysis of roles of variables in novice-level procedural programs. In Proceedings IEEE 2002 Symposia on Human Centric Computing Languages and Environments (pp. 37-39). IEEE.
+1. Shafto, P., & Goodman, N. (2008). Teaching games: Statistical sampling assumptions for learning in pedagogical situations. In Proceedings of the 30th annual conference of the Cognitive Science Society (pp. 1632-1637). Austin, TX: Cognitive Science Society.
+1. Sheard, J., Carbone, A., Lister, R., Simon, B., Thompson, E., & Whalley, J. L. (2008, June). Going SOLO to assess novice programmers. In Proceedings of the 13th annual conference on Innovation and technology in computer science education (pp. 209-213).
+1. Santos, Á., Gomes, A., & Mendes, A. (2013, October). A taxonomy of exercises to support individual learning paths in initial programming learning. In 2013 IEEE Frontiers in Education Conference (FIE) (pp. 87-93). IEEE.
+1. Shih, Y. F., & Alessi, S. M. (1993). Mental models and transfer of learning in computer programming. Journal of Research on Computing in Education, 26(2), 154-175.
+1. Sorva, Juha. (2013). Notional Machines and Introductory Programming Education. ACM Transactions on Computing Education. 13. 8:1-8:31. 10.1145/2483710.2483713. 
+1. Swidan, A., & Hermans, F. (2019, May). The Effect of Reading Code Aloud on Comprehension: An Empirical Study with School Students. In Proceedings of the ACM Conference on Global Computing Education (pp. 178-184).
+1. Tondeur, J., Van Braak, J., & Valcke, M. (2007). Curricula and the use of ICT in education: Two worlds apart?. British Journal of Educational Technology, 38(6), 962-976.
+1. Vatz, R. E. (1973). The myth of the rhetorical situation. Philosophy & rhetoric, 154-161.
+1. Van Merriënboer, J. J., Clark, R. E., & De Croock, M. B. (2002). Blueprints for complex learning: The 4C/ID-model. Educational technology research and development, 50(2), 39-61.
+1. Whalley, J. L., Clear, T., Robbins, P., & Thompson, E. (2011). Salient elements in novice solutions to code writing problems.
+1. Zeng, L., Kuang, S., Yang, L., Zhu, T., & Ding, X. (2010, May). Construction of Threshold Concept-Based Programming Courses Ontology. In 2010 International Conference on E-Business and E-Government (pp. 3849-3851). IEEE.
+1. Zhu, H., & Zhou, M. (2003, October). Methodology first and language second: A way to teach object-oriented programming. In Companion of the 18th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications (pp. 140-147).
 
 [TOP](#title)
