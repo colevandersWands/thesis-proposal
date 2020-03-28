@@ -10,10 +10,6 @@
 
 1. [Research Statement](#research-statement)
 1. [Context](#context)
-    * [Target Settings](#target-settings)
-    * [Adapt the Existing](#adapt-the-existing)
-    * [Fluid Roles](#fluid-roles)
-    * [Quantify Adopt/Adapt-ability](#quantify-adoptadapt-ability)
 1. [Objectives](#objectives)
 1. [Research Methodology](#research-methodology)
 1. [Possible Artifacts](#possible-artifacts)
