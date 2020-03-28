@@ -4,9 +4,7 @@
 * Supervisors.
 * Date
 
-Many of the initial stumbling blocks for novice programmers can be overcome using custom languages and programming environments specialized for helping learners overcome key thresholds.  However these interventions are not practical or possible in many contexts.
-
-Is it possible to achieve similar learning outcomes for adult learners outside of formal education by applying what is known of effective computing education by adapting/configuring industry-standard programming languages & environments for education?
+---
 
 ### Contents
 
@@ -16,10 +14,9 @@ Is it possible to achieve similar learning outcomes for adult learners outside o
     * [Adapt the Existing](#adapt-the-existing)
     * [Fluid Roles](#fluid-roles)
     * [Quantify Adopt/Adapt-ability](#quantify-adoptadapt-ability)
-1. [Literature Review](#literature-review)
 1. [Objectives](#objectives)
 1. [Research Methodology](#research-methodology)
-1. [Potential Artifacts](#potential-artifacts)
+1. [Possible Artifacts](#possible-artifacts)
 1. [Doctoral Formation](#doctoral-formation)
 1. [Bibliography](#bibliography)
 
@@ -27,11 +24,11 @@ Is it possible to achieve similar learning outcomes for adult learners outside o
 
 ## Research Statement
 
-Much is already known about effective pedagogy for novice programmers, and many great resources, curricula, tools & learning environments have been developed to implement known best practices.   However there are very practical limitations to applying these interventions in many contexts outside of formal learning institutions, by non-specialized educators, or by learners themselves. 
+Much is already known about effective pedagogy for novice programmers, and many great resources, curricula, tools & learning environments have been developed to implement best practices.   However there are practical limitations to applying these interventions in many contexts outside of formal learning institutions, by non-specialized educators, or by learners themselves. 
 
-The aim of this thesis is to explore whether the same understanding of effective pedagogy can be used to develop a suite of methodologies and supporting tools that enable learners to self-direct, non-specialized educators to teach computing, and experienced programmers to effectively transfer their knowledge outside of well-heeled formal institutions.
+The aim of this thesis is to explore whether the same understanding of effective pedagogy can be used to develop a suite of methodologies and supporting tools that enable learners to self-direct, non-specialized educators to teach computing, and experienced programmers to transfer their knowledge.
 
-To this end it will be necessary to define a target context, and  understand in more detail what is preventing educators and learners from implementing existing artifacts or best practices.  This will include developing a viable measure of adopt/adapt-ability. Achieving this will expand our understanding of computing education from what is theoretically effective when applied correctly to a grounded understanding of how the theory can be practically applied in all settings.  
+To this end it will be necessary to define a target context and understand in more detail what is preventing educators and learners from implementing existing artifacts or best practices.  Besides assessing student outcomes, this will require developing a viable measure of adopt/adapt-ability. Achieving this will expand our understanding of computing education from what is theoretically effective when applied correctly to a grounded understanding of how the theory can be practically applied in all settings.  
 
 [TOP](#title)
 
@@ -39,7 +36,7 @@ To this end it will be necessary to define a target context, and  understand in 
 
 ## Context
 
-Much is already known about effective pedagogy for novice programmers, and many great resources, curricula, tools & learning environments have been developed to implement known best practices. 
+Much is already known about effective pedagogy for novice programmers, and many great artifacts have been developed to implement known best practices. 
 
 * _Curricula_: bootstrap, runestone academy, how to design programs, ...
 * _Programming languages_: pyret, racket, configurable & language-leveled languages, ...
@@ -48,7 +45,7 @@ Much is already known about effective pedagogy for novice programmers, and many 
 * _Programming environments_: thonny, alice, blockpy, pyret, blueJ, ...
 * _Non-textual languages_: general purpose blocks, Scratch, BlockPy lego mindstorms, ...
 
-These strategies/tools/techniques have led to improved learning outcomes in the settings and with the technologies studied.   However there are very practical limitations to applying these interventions in many contexts outside of formal learning institutions, by non-specialized educators, or by learners themselves.  Some of these constraints are related to the skills and experience of the individuals involved, while others are placed by the duration, objectives or resources available.  These include:
+These strategies/tools/techniques have led to improved learning outcomes in the settings and with the technologies studied.   However there are very practical limitations to applying these interventions in many contexts outside of formal learning institutions, by non-specialized educators, or by learners themselves.  Some of these constraints are related to the skills and experience of the individuals involved, while others are placed by the duration, objectives or available resources.  These include:
 
 * entire curriculums are impractical to adapt to different needs
 * a competent and experienced educator is often required for them to be applied correctly
@@ -58,9 +55,9 @@ These strategies/tools/techniques have led to improved learning outcomes in the 
 * they are not directly transferable to applied/professional contexts (custom environments/languages, ...)
 * are generally limited to "learnable" programming languages (which are not necessarily the most current ones)
 
-These limitations leave many of the best practices out of reach for (arguably) the majority of educational settings where "difficult" programming languages & environments are the learning goal, trainings must take place in under 1 year, and there is often much more professional competence than pedagogical competence available.
+These limitations leave many of the best practices out of reach for (arguably) the majority of educational settings where challenging programming languages & environments are the learning goal, trainings must take place in under 1 year, and there is often much more professional than pedagogical competence available.
 
-So, can a combination of pedagogical methodology and technical solutions be found that allow learners and peers/seniors/educators to apply the same understanding of effective programing pedagogy in their home settings and programming languages within their existing means? And if so, can the learning outcomes be comparable to the more controlled settings envisioned by most interventions?
+So, can a combination of pedagogical methodology and technical solutions be found that allow learners and peers/developers/educators to apply the same understanding of effective programing education in their contexts, within their existing means? And if so, can the learning outcomes be comparable to the more controlled settings envisioned by most research-driven interventions?
 
 ### Target Settings
 
@@ -86,7 +83,7 @@ It is hypothesized that for any methodology or tool to effectively reach the def
 All actors will need a solid understanding of the same core principles of computing education, clearly and actionably stated:
 
 1. What are key learning objectives & thresholds?
-1. Which of these are reliably difficult to teach and learn?
+1. Which of these are most important for the context of this thesis?
 1. What are effective and ineffective ways to reach these objectives?
 1. How can mastery of these objectives be assessed and quantified?
 
@@ -98,113 +95,61 @@ To validate any such intervention it is necessary to quantify not only student l
 
 To this end it will be necessary to understand in more detail what is preventing educators from using existing artifacts (is it exposure? educational philosophy? time and resources? incompatibility between required & ideal curricula?).  After understanding the blocks, it will be necessary to find an objective measure of adopt/adapt-ability that can be used to determine which types of interventions are most practical for educators/learners to introduce into their classroom incrementally rather than as a whole-sale transformation.  
 
-[TOP](#title)
-
----
-## Literature Review
-
-> this needs to be fleshed out and connected to citations
-
-This literature review is structured to address an ordered list of 4 questions, which lay the ground works for the rest of this thesis:
-
-### What are key threshold concepts & learning objectives for novice programmers?
-
-This topic has been adequately covered in the literature for the purposes of this thesis.
-
-* syntax & writing
-  * visual complexity
-  * syntactic rigidity
-  * inconsistent syntax rules
-  * language & pronunciation barriers
-* dynamics of programming execution & memory
-  * tracing lines in order of execution
-  * source vs. runtime
-  * function execution
-  * variables
-  * list comprehension
-  * classes & instances
-* computing & computers
-  * computers have volition
-* problem comprehension & addressing
-  * matching language features to specific problems
-  * generalizing solution patterns
-  * identifying when a pattern is relevant
-  * using pseudo-code
-* program structuring
-* reading and understanding code
-
-### Which of these are most important for the context of this thesis?
-
-All of them are important, and difficult to teach/learn or they wouldn't be the subject of research. But which are common across a wide variety of applied computing settings?  Which are least tied to a particular domain, programming language, or paradigm?  Narrowing down the list of thresholds and objectives using this criteria will help to find more general tools & methods which are more adaptable across different programming languages and environments.  
-
-Another important consideration given the goals of this thesis is that many factors which are generally controlled for in computing education research are not controllable in the context of this thesis - the goal is to study how to learn & teach industry-standard languages+environments in context.
-
-With that in mind, these concepts may the most interesting to pursue as a first step:
-
-* program structuring
-* syntax & writing
-  * language & pronunciation barriers
-* dynamics of programming execution & memory
-  * tracing lines in order of execution
-  * source vs. runtime
-  * function execution
-  * variables
-* problem comprehension & addressing
-  * matching language features to specific problems
-  * generalizing solution patterns
-  * identifying when a pattern is relevant
-* reading and understanding code
-
-### What are effective and ineffective methods for reaching these objectives?
-
-Having an overview of what has worked to overcome these target objectives will be helpful to define specific avenues of research.
-
-A more detailed understanding of what is _missing_ in successful learning languages+environments compared to industry-standard languages+environments will help.  It is likely that some of the lowest hanging fruit will be finding ways to intentionally configure or restrict certain pieces of a languages or environment to make them more similar to specialized learning environments.
-
-> fill in details
-
-An overview of successful methods for studying code (visualization tools, static study techniques, error message explanation, ...) is important to understand what minimal plugins or study tools may have the highest impact for the least overhead.
-
-> fill in details
-
-### How can mastery of these objectives be assessed and quantified?
-
-There is already a body of research exploring how to evaluate novice programmers: identifying taxonomies, automated code assessment & feedback, which competencies to assess for at what stages in learning, how to design assessments for computing skills, to name a few. 
-
-The open question in relation to this thesis is not how can a perfect assessment of programming skills be acquired in a controlled environment, but how can adequate and authentic assessment be achieved in an authentic setting.  And one step further, what methods of evaluation are easily adapted by educators or even administrable by learners themselves.  
-
-[TOP](#title)
-
 ---
 
 ## Objectives
 
-1. Specify and understand the target context in general
-1. Identify specific participating organizations
-1. Learn how they actually operate
-1. Determine metrics of success in partnership with partner organizations
-1. work with each organization to find the tools & methods that are easily and effectively integrated into their existing trainings.  Measure outcomes according to determined metrics as we go along.
-1. attempt to generalize findings into a set of common guidelines, tools & resources for similar settings
+### Specify and understand the target context in general
 
-[TOP](#title)
+* What types of educational settings are currently not well-served by existing research-based methodologies and artifacts? Why are existing solutions not applicable? What do they have in common?
+* Answering questions like these will make it possible to narrow focus of the thesis and identify research subjects.  Ideally this would result in a questionnaire that could be used by the researchers to find subjects, and later could be used by organizations themselves to understand if the results of this thesis are applicable for them.
+
+### Identify specific participating organizations
+
+* Using the profile determined above, find several organizations and institutions that would be willing to participate.  Candidates include government-sponsored formations, non-profit coding schools, isolated programming courses offered outside of Computer Science Departments, self-study meetup groups, internal training departments, ...
+* Partner organizations will be randomly separated throughout the research and design process.  Some will play the role of active design partners, while others will serve as "control" to test the generality of designed artifacts.  This will take place in smaller cycles at the scale of individual artifacts, and at the scale of the entire research project to test the validity of the final group
+
+### Determine partner organizations' educational needs
+
+* _What is the target student profile? What are the final learning objectives?_  What background knowledge and experience can be expected from incoming students?  What competencies should an outgoing student have?  To over simplify matters, the rest of thesis is just finding the most efficient path from A to B.
+* _What are key threshold concepts encountered by their students?_ Existing research has identified many learning objectives that predictably cause trouble for students and are tricky to teach.  However, some of these will be more or less relevant depending on the backgrounds of incoming students, the languages/paradigms/environments taught, and the ultimate objectives of the course.
+* _What can and cannot be controlled?_  By design, this thesis is addressing educational settings with different constraints than are often addressed by computing education. The goal is to find low-barrier optimizations that do not fundamentally change the objectives of a training. ie. A first line of attack to improve student outcomes might be to switch to a more amenable language or programming environment, however this is not an option for short-duration trainings looking to quickly re-skill adult learners.  Other existing interventions are off the table because they are forseen as the first introduction to a full diploma in computer science, rather than being integrated into a crash-course in applied software development.
+
+### Determine metrics of success in partnership with partner organizations
+
+* _How can mastery of identified learning objectives be assessed and quantified?_  The open question in relation to this thesis is not how can a perfect assessment of programming skills be acquired in a controlled environment, but how can adequate and authentic assessment be achieved in an authentic setting.  This step will require a lot of field work and iteration, validating what is already known about assessment (appropriate taxonomies, automated code assessment/feedback, which competencies to assess for at what stages in learning, and how to design authentic assessments, ...) against the realities of each setting.  An interesting and relevant contribution to the literature on assessment in computing education would be to identify methods of evaluation are easily adapted by educators or even administrable by learners themselves.
+* _What traits make an artifact easily accessed and adaptable?_  It is not enough for something to work in the exact setting it is designed for.  If the best practices are to become the common practices, it needs to be within the practical constraints of educators and students to adapt an artifact to changing needs and contexts.  To validate the adopt/adaptability of any research artifacts, it will be necessary to work with teachers and students to determine their constraints (technical skills, resources, time, effort/reward thresholds, ...).
+
+### Design effective tools & methodologies matched to each organizations' needs
+
+* _What are effective and ineffective methods for reaching these objectives?_  Working in partnership with the students, teachers and administrators, design custom methodologies and tools that allow them to apply known best practices within their existing constraints.  All tested artifacts will be informed by known best practices and traits of previously successful artifacts, and validated against the pre-defined assessment metrics for student learning outcomes and adopt/adaptability. It is likely that some of the lowest hanging fruit will be finding ways to intentionally configure or restrict certain pieces of a languages or environment to make them more similar to specialized learning environments.
+
+### Generalize & validate findings
+
+* _How can the specific solutions found with partner organizations be generalized?_   What combination of guidelines, methodologies, tools and/or educational resources will enable other educational programming matching the target profile (described at the out start of this thesis) to make the best practices their common practices?
+* To have confidence in generality, a validation phase will be carried out with partner organizations that were initially assigned to the "control group".  They will be asked to adopt/adapt the new artifacts into their existing trainings. The ease with this transition is achieved and any changes in student learning outcomes will be measured.
+
+### Theoretical Contribution
+
+* The results of this thesis will be analyzed and integrated into the existing body of knowledge pertaining to novice computing education.
 
 ---
 
 ## Research Methodology
 
-Design Research is the most appropriate methodology, it is best suited to research that seeks to extend an existing knowledge base through application and validation in novel settings.  The goal of this thesis is to apply what is known about effective computing education to finding a generalized method for adapting industry-standard languages & environments for educational purposes. 
+Design Research is the most appropriate methodology, it is best suited to research that extends an existing knowledge base through application and validation in novel settings.  The goal of this thesis is to apply what is known about effective computing education to finding a generalized method for adapting industry-standard languages & environments for educational purposes. 
 
-Design research is made up of cycles.  These steps will be carried out repeatedly both at a small scale to develop individual artifacts, and a the scale of the thesis in an attempt to find a general methodology.
+Design research is made up of cycles. These steps will be carried out repeatedly both at a small scale to develop individual artifacts, and a the scale of the thesis in an attempt to find a generalized methodology: 
 
-1. __Relevance__: Requirements & Field Testing
-1. __Design Cycle__: Build & Evaluate
-1. __Rigor Cycle__: Grounding & Knowledge Base Contributions
+1. Relevance: Requirements & Field Testing
+2. Design Cycle: Build & Evaluate
+3. Rigor Cycle: Grounding & Knowledge Base Contributions
 
-[TOP](#title)
+Furthermore, the stages of research described in __Objectives__ are in direct alignment with the 7 established Design Science Research Guidelines as laid out by _Hevner, A., & Chatterjee, S. (2010)_.
 
 ---
 
-## Potential Artifacts
+## Possible Artifacts
 
 To make the best practices the common practices, they must be the easiest to adopt/adapt.  Some possible artifacts to achieve this end include:
 
@@ -233,9 +178,7 @@ Some possible avenues of investigation for adapting professional tools into lear
 
 ## Doctoral Formation
 
-> TBD, possibly decided by masters requirements
-
-[TOP](#title)
+> TBD
 
 ---
 
@@ -245,6 +188,7 @@ Some possible avenues of investigation for adapting professional tools into lear
 1. Atkinson, R. K., Derry, S. J., Renkl, A., & Wortham, D. (2000). Learning from examples: Instructional principles from the worked examples research. Review of educational research, 70(2), 181-214.
 1. Bitzer, L. F. (1992). The rhetorical situation. Philosophy & rhetoric, 1-14.
 1. Castro, F. E. V., & Fisler, K. (2017, November). Designing a multi-faceted SOLO taxonomy to track program design skills through an entire course. In Proceedings of the 17th Koli Calling International Conference on Computing Education Research (pp. 10-19).
+1. Cummings, R. E. (2006). Coding with power: Toward a rhetoric of computer coding and composition. Computers and Composition, 23(4), 430-443.
 1. Du Boulay, B., O'SHEA, T. I. M., & Monk, J. (1999). The black box inside the glass box: Presenting computing concepts to novices. International Journal of Human-Computer Studies, 51(2), 265-277.
 1. Davies, S. (2008, October). The effects of emphasizing computational thinking in an introductory programming course. In 2008 38th Annual Frontiers in Education Conference (pp. T2C-3). IEEE.
 1. Faux, R. (2006). Impact of preprogramming course curriculum on learning in the first programming course. IEEE Transactions on education, 49(1), 11-15.
@@ -278,5 +222,3 @@ Some possible avenues of investigation for adapting professional tools into lear
 1. Whalley, J. L., Clear, T., Robbins, P., & Thompson, E. (2011). Salient elements in novice solutions to code writing problems.
 1. Zeng, L., Kuang, S., Yang, L., Zhu, T., & Ding, X. (2010, May). Construction of Threshold Concept-Based Programming Courses Ontology. In 2010 International Conference on E-Business and E-Government (pp. 3849-3851). IEEE.
 1. Zhu, H., & Zhou, M. (2003, October). Methodology first and language second: A way to teach object-oriented programming. In Companion of the 18th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications (pp. 140-147).
-
-[TOP](#title)
