@@ -1,8 +1,8 @@
-# Title
+# Open Computing Education: making the best practices the common practices
 
-* Evan Cole.
-* Supervisors.
-* Date
+* Evan Cole
+* Advisors: Benoît Vanderose & Bruno Dumas
+* March 29, 2020
 
 ---
 
@@ -174,7 +174,28 @@ Some possible avenues of investigation for adapting professional tools into lear
 
 ## Doctoral Formation
 
-> TBD
+The proposed courses were selected to develop a deeper understanding of education, the design of computing systems, and data science (with the intent of designing educational resources for the domain).  Selected conferences are focused on computing education, this list will expand and become more specialized as the thesis becomes more clearly defined.
+
+### Informatics Courses
+
+* Ingénierie du logiciel et laboratoire (INFOM114): _10 ECTS_
+* Visualisation de l'information (IDASM103): _4 ECTS_
+* Machine learning et data mining (IDASM102): _6 ECTS_
+* Graph mining (SDASM101): _5 ECTS_
+* Calculabilité et complexité (INFOM113): _5 ECTS_
+* Projet interdisciplinaire (IDASM104): _5 ECTS_
+
+### Cross-Disciplinary Courses
+
+* Psychopédagogie I (FAGRM402): _4 ECTS_
+* Psychopédagogie II (FAGRM406): _3 ECTS_
+
+### Scientific Activities
+
+* Domain conferences (ICER, ITiCSE, SIGCSE, FIE, Koli Calling, etc.): _15 ECT_
+* Confirmation: _5 ECTS_
+* Private Defense: _5 ECTS_
+* Public Defense: _5 ECTS_
 
 ---
 
