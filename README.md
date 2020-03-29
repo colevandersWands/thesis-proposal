@@ -1,4 +1,6 @@
-# Open Computing Education: making the best practices the common practices
+# Open Computing Education
+
+## Making best practice the common practice
 
 * Evan Cole
 * Advisors: Benoît Vanderose & Bruno Dumas
