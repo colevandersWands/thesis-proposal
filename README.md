@@ -80,8 +80,8 @@ It is hypothesized that for any methodology or tool to effectively reach the def
 
 All actors will need a solid understanding of the same core principles of computing education, clearly and actionably stated:
 
-1. What are key learning objectives & thresholds?
-1. Which of these are most important for the context of this thesis?
+1. What are key learning objectives & thresholds concepts?
+1. Which of these are most important for their context?
 1. How can mastery of these objectives be assessed and quantified?
 1. What are effective and ineffective ways to reach these objectives?
 
