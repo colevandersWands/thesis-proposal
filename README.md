@@ -180,12 +180,14 @@ The proposed courses were selected to develop a deeper understanding of educatio
 
 ### Informatics Courses
 
+* Séminaire d'introduction à la démarche scientifique (INFOB302): _5 ECT_
 * Ingénierie du logiciel et laboratoire (INFOM114): _10 ECTS_
 * Visualisation de l'information (IDASM103): _4 ECTS_
 * Machine learning et data mining (IDASM102): _6 ECTS_
 * Graph mining (SDASM101): _5 ECTS_
 * Calculabilité et complexité (INFOM113): _5 ECTS_
 * Projet interdisciplinaire (IDASM104): _5 ECTS_
+* Mémoire en Informatique: _15 ECTS_
 
 ### Cross-Disciplinary Courses
 
@@ -219,6 +221,7 @@ The proposed courses were selected to develop a deeper understanding of educatio
 1. Hevner, A., & Chatterjee, S. (2010). Design science research in information systems. In Design research in information systems (pp. 9-22). Springer, Boston, MA.
 1. Krone, J., Hollingsworth, J. E., Sitaraman, M., & Hallstrom, J. O. (2010). A reasoning concept inventory for computer science. Clemson University.
 1. Kelleher, C., & Pausch, R. (2005). Lowering the barriers to programming: A taxonomy of programming environments and languages for novice programmers. ACM Computing Surveys (CSUR), 37(2), 83-137.
+1. Marino, M. C. (2020). Critical code studies. MIT Press.
 1. Mead, J., Gray, S., Hamer, J., James, R., Sorva, J., Clair, C. S., & Thomas, L. (2006). A cognitive approach to identifying measurable milestones for programming skill acquisition. ACM SIGCSE Bulletin, 38(4), 182-194.
 1. Proulx, V. K. (2000). Programming patterns and design patterns in the introductory computer science course. ACM Sigcse Bulletin, 32(1), 80-84.
 1. Paas, F., Renkl, A., & Sweller, J. (2004). Cognitive load theory: Instructional implications of the interaction between information structures and cognitive architecture. Instructional science, 32(1/2), 1-8.
