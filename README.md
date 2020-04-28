@@ -1,4 +1,4 @@
-# Open Computing Education
+## Open Computing Education
 
 ## Making best practice the common practice
 
@@ -22,13 +22,19 @@
 
 ## Research Statement
 
-Much is already known about effective pedagogy for novice programmers, and many great resources, curricula, tools & learning environments have been developed to implement best practices.   However there are practical limitations to applying these interventions in many contexts outside of formal learning institutions, by non-specialized educators, or by learners themselves. 
+Many great resources, curricula, tools & learning environments have been developed for novice programmers.  However there are practical limitations to using these interventions in the context of adults (~18 years+) attempting to learn software development in a short period of time (< 1 year) outside of academic institutions.  This is arguably one of the largest populations of programming students out there, yet is under-represented in the computing education literature which has focused on university students and younger (as far as I can tell).  
 
-The aim of this thesis is to explore whether the same understanding of effective pedagogy can be used to develop a suite of methodologies and supporting tools that enable learners to self-direct, non-specialized educators to teach computing, and experienced programmers to transfer their knowledge.
+Course offerings for this audience abound: mentorship programs, re-skilling within companies, government-sponsored trainings, private bootcamps, online tutorials, MOOCS, and informal study groups for a start.  These trainings share several traits that leave many of the best practices from Computing Education Research (CER) out of reach:
 
-To this end it will be necessary to define a target context and understand in more detail what is preventing educators and learners from implementing existing artifacts or best practices.  Besides assessing student outcomes, this will require developing a viable measure of adopt/adapt-ability. Achieving this will expand our understanding of computing education from what is theoretically effective when applied correctly to a grounded understanding of how the theory can be practically applied in all settings.  
+* There is little to no flexibility in which languages/environments are taught: tailor-made novice languages and environments are off the table, ie. _Guzdial, M. (2004); Kelleher, C., & Pausch, R. (2005);  Sorva, J. (2012)_
+* Courses are of limited duration: there is usually no time to ease into code with an ideal precourse or prolonged introductory periods, ie. _Davies, S. (2008, October); Faux, R. (2006); Zhu, H., & Zhou, M. (2003)_
+* Instructors are usually developers and often mix teaching with other work: content knowledge is stronger than pedagogical knowledge, and they don't have the time to study CER
+* Courses are often run short on time and resources: it's not reasonable to expect instructors or administration to continually invest in curriculum improvement and instructor trainings
+* Available content is often pre-recorded, not adaptable or pieced together from disjointed sources: providing an consistent, adapted, & gradual student experience is out of reach
 
-[TOP](#title)
+Working within an organization's constraints, the aim is to explore how findings from CER can be adopted/adapted to each context; enabling learners to self-direct, non-specialized educators to guide a computing course, and experienced programmers to effectively transfer their knowledge. At first it will be necessary to understand common constraints, and what is preventing these organizations/students from already applying CER findings. After this, a viable measure of adopt/adapt-ability will need to be developed for use alongside student evaluation, acting as validation for new interventions and artifacts.  
+
+Worth exploring are ways to adapt IDEs for novices using incremental changes in configuration, designing worked examples to navigate a student through their programming environment, enforcing language levels using linter configurations, and extensions for IDEs that help students to build notional machines or study their code in more ways than running it and inspecting the results. There may be good reasons that best practice isn't common practice, but there is no good reason it needs to stay that way.
 
 ---
 
@@ -170,8 +176,6 @@ Some possible avenues of investigation for adapting professional tools into lear
   * ... blockifying defined subsets of common languages directly in the editor, like Blockly or PencilCode.  This could go hand-in-hand with linting & styling configurations to reduce the blockifying complexity
   * ... enable students to study their code from more perspectives than execution (ie. switch to parsons mode and lines are shuffled, correctly replacing the lines will allow the student to continue developing)
 
-[TOP](#title)
-
 ---
 
 ## Doctoral Formation
@@ -187,7 +191,6 @@ The proposed courses were selected to develop a deeper understanding of educatio
 * Graph mining (SDASM101): _5 ECTS_
 * Calculabilité et complexité (INFOM113): _5 ECTS_
 * Projet interdisciplinaire (IDASM104): _5 ECTS_
-* Mémoire en Informatique: _15 ECTS_
 
 ### Cross-Disciplinary Courses
 
